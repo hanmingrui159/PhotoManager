@@ -6,6 +6,6 @@ FEATURES<br />
 -Add/delete tags to each photo and the name changes are recorded automatically. <br /> 
 -Filter photos by their tags, view the log history of name changes, and revert a photo back to its past tags. <br /> 
 -Open a root directory to scan in the tags associated with the photos under the directory, and view the photos under the directory
-<br /> 
+<br /><br />  
 SET-UP<br /> 
-uncompress the zip file and open the new project folder "photomanager" in an IDE, run "Main" class; or use javac to compile the program as instructed in the help.txt
+-uncompress the zip file and open the new project folder "photomanager" in an IDE, run "Main" class; or use javac to compile the program as instructed in the help.txt
