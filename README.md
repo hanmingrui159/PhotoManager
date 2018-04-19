@@ -9,8 +9,8 @@ FEATURES<br />
 <br /><br />  
 
 SET-UP<br /> 
--1. uncompress the zip file<br />
--2. open the new project folder "photomanager" in an IDE, run "Main" class; or cd into the "src" directory of the project folder, enter "javac Main.java" to compile the program, this should create a "Main.class" file, enter "java Main to run the program"
+1. uncompress the zip file<br />
+2. open the new project folder "photomanager" in an IDE, run "Main" class; or cd into the "src" directory of the project folder, enter "javac Main.java" to compile the program, this should create a "Main.class" file, enter "java Main to run the program"
 <br /><br />
 
 USAGE<br />
