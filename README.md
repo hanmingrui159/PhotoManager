@@ -1,5 +1,5 @@
 # PhotoManager
-This is a photo management program implemented through Java and JavaFX for CSC207 Fall<br /> <br /> 
+This is a photo management program implemented through Java and JavaFX for CSC207 2017Fall<br /> <br /> 
 FEATURES<br /> 
 -User can manage photos by tags<br /> 
 -Add/delete tags to each photo and the name changes are recorded automatically. <br /> 
